@@ -1,4 +1,5 @@
 export const VIDEOS = [
+  "https://youtu.be/89Tt0dQGt-4",
   "https://youtu.be/9D0Ow4vQ2cg ",
   "https://youtu.be/7o-RnMTs4sY",
   "https://youtu.be/0D6EQjLnWg8",
